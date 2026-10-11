@@ -8,7 +8,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 15h | 8 |
+| Week 1 | Tier 1 | 14.5h | 8 |
 
 ## Contents
 
@@ -70,7 +70,7 @@ I also read some of the datasheet of the TEENSY 4.0 and added the inputs and out
 
 ### 2026-10-09 – I added a power system to convert the input voltage to 5 volts, then stepped down to 3.3V for some of the sensors.
 
-**3.5h**
+**3h**
 
 I added a power system to convert the input voltage to 5 volts, then stepped down to 3.3V for some of the sensors.
 

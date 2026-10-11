@@ -8,7 +8,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 15.5h | 8 |
+| Week 1 | Tier 1 | 15h | 8 |
 
 ## Contents
 
@@ -112,7 +112,7 @@ I realized that I had a driver that was connected to an encoder, so I used and i
 
 ### 2026-10-11 – Did some firmware, initialized the time of flight sensors and changed their registers over I2C. Also wrote some code for setting the PWM for motors and added functionality for turning, braking, moving
 
-**1h**
+**0.5h**
 
 Did some firmware, initialized the time of flight sensors and changed their registers over I2C. Also wrote some code for setting the PWM for motors and added functionality for turning, braking, moving forward, etc.
 

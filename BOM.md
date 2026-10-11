@@ -14,7 +14,7 @@
 | --- | --- | --- | --- | --- | --- |
 | [PCBA Assembly of the board](https://jlcpcb.com/) | Service from JLCPCB with complete assembly | 1 | $58.88 | $58.88 | [JLC](https://jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$58.88** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$58.88** | — |
+| **Tax & shipping** | — | — | — | **$3.30** | — |
+| **Total** | — | — | — | **$62.18** | — |
 
-$6.12 left of the tier's funding.
+$2.82 left of the tier's funding.
